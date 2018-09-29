@@ -37,9 +37,31 @@ public class Player : Character {
         if(Input.GetKey(KeyCode.D)) {
             direction += Vector2.right;
         }
+
+        /*if(Input.GetKey(KeyCode.L)){
+            //enter dash state
+         }
+         if(Input.GetKey(KeyCode.J)){
+            //player attacks
+            attack()
+         }
+         if(Input.GetKey(KeyCode.K)){
+            //create smoke bomb effect
+            createSmokeBomb()
+         }
+         if(Input.GetKey(KeyCode.Space(?))){
+            //creates kunai
+            createKunai()
+         }
+         */
     }
 
-    private void smokeBomb() {}
+    /*private void dashMovement() {
+     * 
+     * //press L to create Dash state
+     * }*/
+
+    private void createSmokeBomb() {}
 
     private void createKunai() {}
 
