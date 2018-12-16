@@ -30,6 +30,43 @@ TextureImporter:
     21300050: nyanja-chan_base_firstDraft_25
     21300052: nyanja-chan_base_firstDraft_26
     21300054: nyanja-chan_base_firstDraft_27
+    21300056: nyanja-chan_base_firstDraft_28
+    21300058: nyanja-chan_base_firstDraft_29
+    21300060: nyanja-chan_base_firstDraft_30
+    21300062: nyanja-chan_base_firstDraft_31
+    21300064: nyanja-chan_base_firstDraft_32
+    21300066: nyanja-chan_base_firstDraft_33
+    21300068: nyanja-chan_base_firstDraft_34
+    21300070: nyanja-chan_base_firstDraft_35
+    21300072: nyanja-chan_base_firstDraft_36
+    21300074: nyanja-chan_base_firstDraft_37
+    21300076: nyanja-chan_base_firstDraft_38
+    21300078: nyanja-chan_base_firstDraft_39
+    21300080: nyanja-chan_base_firstDraft_40
+    21300082: nyanja-chan_base_firstDraft_41
+    21300084: nyanja-chan_base_firstDraft_42
+    21300086: nyanja-chan_base_firstDraft_43
+    21300088: nyanja-chan_base_firstDraft_44
+    21300090: nyanja-chan_base_firstDraft_45
+    21300092: nyanja-chan_base_firstDraft_46
+    21300094: nyanja-chan_base_firstDraft_47
+    21300096: nyanja-chan_base_firstDraft_48
+    21300098: nyanja-chan_base_firstDraft_49
+    21300100: nyanja-chan_base_firstDraft_50
+    21300102: nyanja-chan_base_firstDraft_51
+    21300104: nyanja-chan_base_firstDraft_52
+    21300106: nyanja-chan_base_firstDraft_53
+    21300108: nyanja-chan_base_firstDraft_54
+    21300110: nyanja-chan_base_firstDraft_55
+    21300112: nyanja-chan_base_firstDraft_56
+    21300114: nyanja-chan_base_firstDraft_57
+    21300116: nyanja-chan_base_firstDraft_58
+    21300118: nyanja-chan_base_firstDraft_59
+    21300120: nyanja-chan_base_firstDraft_60
+    21300122: nyanja-chan_base_firstDraft_61
+    21300124: nyanja-chan_base_firstDraft_62
+    21300126: nyanja-chan_base_firstDraft_63
+    21300128: nyanja-chan_base_firstDraft_64
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -73,7 +110,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 25
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -91,7 +128,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -102,7 +139,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,7 +150,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,7 +161,18 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -137,10 +185,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 535
-        width: 55
-        height: 65
+        x: 0
+        y: 536
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,7 +196,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 639f8d0c3bd3d0e408e7899e03b2aadb
+      spriteID: b58fc6f059b825f4992301414bddad44
       vertices: []
       indices: 
       edges: []
@@ -157,9 +205,9 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_1
       rect:
         serializedVersion: 2
-        x: 131
+        x: 64
         y: 536
-        width: 55
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -168,7 +216,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c2aafdf40d561b42b49338510e01c20
+      spriteID: 90ee222670cc3be408cffdb4dde24493
       vertices: []
       indices: 
       edges: []
@@ -177,69 +225,9 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_2
       rect:
         serializedVersion: 2
-        x: 188
-        y: 535
-        width: 59
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d57799cf50048b24f800d9a24c389e89
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nyanja-chan_base_firstDraft_3
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 593
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f0a14b5ad87cc44bab3f2663124de42
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nyanja-chan_base_firstDraft_4
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 426
-        width: 65
-        height: 174
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 296a5b284aee4934c94fd0a171c712db
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nyanja-chan_base_firstDraft_5
-      rect:
-        serializedVersion: 2
-        x: 330
+        x: 128
         y: 536
-        width: 16
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -248,7 +236,67 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 237474289971ed84599e89eba705fcb3
+      spriteID: 0749d552f7991044199d4426b7941625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eeda70cb17bee44b6da41a46bf4eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a109e96530e9f44486a7e436958aad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41255100140d1845884af511bb98c49
       vertices: []
       indices: 
       edges: []
@@ -257,10 +305,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_6
       rect:
         serializedVersion: 2
-        x: 2
-        y: 559
-        width: 29
-        height: 27
+        x: 0
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,7 +316,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16fb520bc33d31e4aa92a9c654ee838d
+      spriteID: c35dd94c9cf540f42880375099b24513
       vertices: []
       indices: 
       edges: []
@@ -277,10 +325,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_7
       rect:
         serializedVersion: 2
-        x: 12
-        y: 585
-        width: 19
-        height: 7
+        x: 64
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,7 +336,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f320b1e0b48167947b34e729baf97d8b
+      spriteID: 4c0ad0cdcbaea75469fcd1c2700e3784
       vertices: []
       indices: 
       edges: []
@@ -297,10 +345,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_8
       rect:
         serializedVersion: 2
-        x: 120
-        y: 573
-        width: 8
-        height: 8
+        x: 128
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,7 +356,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a67c03548d5ef4b45b12e2d519149bcb
+      spriteID: 6dc979462497cc348a72b506fe456173
       vertices: []
       indices: 
       edges: []
@@ -317,10 +365,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_9
       rect:
         serializedVersion: 2
-        x: 42
-        y: 563
-        width: 11
-        height: 10
+        x: 192
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,7 +376,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04ffbb94b0d65b14eb59778c676fe662
+      spriteID: 0220ffbf42327ee4faceb49bc7f5c8a8
       vertices: []
       indices: 
       edges: []
@@ -337,10 +385,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_10
       rect:
         serializedVersion: 2
-        x: 1
-        y: 544
-        width: 19
-        height: 14
+        x: 256
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,7 +396,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd56181cbe84dc6499e774513c075637
+      spriteID: 31a4fc80fc27a8a43ae33be007b2c743
       vertices: []
       indices: 
       edges: []
@@ -357,10 +405,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_11
       rect:
         serializedVersion: 2
-        x: 22
-        y: 538
-        width: 16
-        height: 12
+        x: 320
+        y: 472
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,7 +416,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ba45ab010a7c784286971831801d10b
+      spriteID: 53448364c52c06148a8997306fe57fd9
       vertices: []
       indices: 
       edges: []
@@ -377,10 +425,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_12
       rect:
         serializedVersion: 2
-        x: 46
-        y: 545
-        width: 6
-        height: 11
+        x: 0
+        y: 408
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,7 +436,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 652bb51eb86d2e74889c310657471b5a
+      spriteID: d4a096bc5dd1bd74980c74cd1a9a0b15
       vertices: []
       indices: 
       edges: []
@@ -397,10 +445,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_13
       rect:
         serializedVersion: 2
-        x: 53
-        y: 545
-        width: 8
-        height: 12
+        x: 64
+        y: 408
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,7 +456,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66886b5e5d9a7964a9f5a4c1fe2104d3
+      spriteID: 4d5e049e2a5bb934aa2e42c4f980b2d8
       vertices: []
       indices: 
       edges: []
@@ -417,10 +465,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_14
       rect:
         serializedVersion: 2
-        x: 1
+        x: 128
         y: 408
-        width: 63
-        height: 131
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,7 +476,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25dbd5dd4b1c4fd45b4f224ca3a096d3
+      spriteID: d184dc2c7b708f8429a53c566b1ca7f8
       vertices: []
       indices: 
       edges: []
@@ -437,10 +485,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_15
       rect:
         serializedVersion: 2
-        x: 65
-        y: 509
-        width: 19
-        height: 7
+        x: 256
+        y: 408
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,7 +496,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caad55bf3f78c7847985dfc0db36c30c
+      spriteID: 803b843c90c0eba49a59956ce2131c97
       vertices: []
       indices: 
       edges: []
@@ -457,10 +505,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_16
       rect:
         serializedVersion: 2
-        x: 78
-        y: 472
-        width: 55
-        height: 62
+        x: 0
+        y: 344
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,7 +516,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0df504976cbeba247aa45b9c86984bd5
+      spriteID: 2932ba356804fc047aa259019247140f
       vertices: []
       indices: 
       edges: []
@@ -477,10 +525,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_17
       rect:
         serializedVersion: 2
-        x: 136
-        y: 471
-        width: 46
-        height: 63
+        x: 64
+        y: 344
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,7 +536,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 352240c7efd8cbb41930b6acc5d3e395
+      spriteID: 33a47cb39e9f5db46a0bf86c64bbc101
       vertices: []
       indices: 
       edges: []
@@ -497,10 +545,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_18
       rect:
         serializedVersion: 2
-        x: 330
-        y: 490
-        width: 16
-        height: 45
+        x: 128
+        y: 344
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,7 +556,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72d93991c04ff1748acf50e0f4933307
+      spriteID: 74b4167b40dbc8447a365bdc48719047
       vertices: []
       indices: 
       edges: []
@@ -517,10 +565,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_19
       rect:
         serializedVersion: 2
-        x: 65
-        y: 445
-        width: 19
-        height: 7
+        x: 320
+        y: 344
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,7 +576,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2e4b9faa3af53c4fb7f16f2a0033af6
+      spriteID: 0ef55495feaa5c245a857c208aec53c4
       vertices: []
       indices: 
       edges: []
@@ -537,10 +585,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_20
       rect:
         serializedVersion: 2
-        x: 78
-        y: 408
-        width: 55
-        height: 62
+        x: 0
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,7 +596,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a303bcafe5288764eadfd010f16eebcb
+      spriteID: 520d7612d7bf56a448f55aa0db7ba98e
       vertices: []
       indices: 
       edges: []
@@ -557,10 +605,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_21
       rect:
         serializedVersion: 2
-        x: 136
-        y: 408
-        width: 46
-        height: 62
+        x: 64
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,7 +616,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a93ee850ac0bec1418aea8609c6d3ec6
+      spriteID: b99de49d8cabcfa488a60c9c0795e3d3
       vertices: []
       indices: 
       edges: []
@@ -577,10 +625,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_22
       rect:
         serializedVersion: 2
-        x: 11
-        y: 279
-        width: 43
-        height: 129
+        x: 128
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,7 +636,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba8edfa9a78076143ab1dd4caf343579
+      spriteID: fe78a5f10cb98c34b82c48d56095f1ad
       vertices: []
       indices: 
       edges: []
@@ -597,10 +645,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_23
       rect:
         serializedVersion: 2
-        x: 65
-        y: 381
-        width: 19
-        height: 7
+        x: 192
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,7 +656,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7989235d59299d14080741b073959506
+      spriteID: 751152b4695a26a439420e620896341b
       vertices: []
       indices: 
       edges: []
@@ -617,10 +665,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_24
       rect:
         serializedVersion: 2
-        x: 78
-        y: 344
-        width: 55
-        height: 62
+        x: 256
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,7 +676,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c16a682dc7a4ad439c978ef54841aeb
+      spriteID: 65b913380f6d78045ba6f184fb4fc5d0
       vertices: []
       indices: 
       edges: []
@@ -637,10 +685,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_25
       rect:
         serializedVersion: 2
-        x: 136
-        y: 344
-        width: 46
-        height: 62
+        x: 320
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,7 +696,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9aeafce64f903043b894a57358faaa7
+      spriteID: 33229bb4390c53048be60b32b61f157a
       vertices: []
       indices: 
       edges: []
@@ -657,10 +705,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_26
       rect:
         serializedVersion: 2
-        x: 330
-        y: 344
-        width: 16
-        height: 53
+        x: 384
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,7 +716,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93033984f75cfe543a6d5375d1c4dbee
+      spriteID: 4cc710ab9433781448d7ab5fba4ece96
       vertices: []
       indices: 
       edges: []
@@ -677,10 +725,10 @@ TextureImporter:
       name: nyanja-chan_base_firstDraft_27
       rect:
         serializedVersion: 2
-        x: 0
-        y: 78
-        width: 522
-        height: 266
+        x: 448
+        y: 280
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,7 +736,747 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8105f2163e6863c428052bc85fc3ec30
+      spriteID: c95c91196cc24864caea03dcd4dc49a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c85082ee3f3e409e38297f1e36c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427fe753a1cba14c8c257e8b7fd58c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ccc463b7e0c724eac696ffc8caf1c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25354f665d8c54d9bddb869fa30b82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b701b263cb3e0240bdf101f919ef75b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce277d0728fdf46a7bb91ff46a8c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c611c2af8410847ba69a9ad0da44d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec80d7700748b645bc02713755d212d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3406e9a21a3728b4589a18cb8163d350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ccbba12360af478aafc91b3a00854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923058e2c8f5f904cbd00d479e6c43c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5506f0e0d6e944a0e2d6e034f777b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149c8353fbd4ef4ab0b59dae64333c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c01aa8dde41834c95ad38ac3315e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c386127b0dfd1458ec2c129c48e76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22313bf7cb749343bc18f59fe4c96fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71031615007382149af0d07c6a208687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf64ed3d1aeb9479430bf2f1bea420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95506df0f084345a732d4f7b8d04f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920033bc3208754c8bb502ea3f0a2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4250a39e8b37484b8a9f8664f73e148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980af3bae3e4f024a81370241d41c9f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b97e0135fe384cb87a6ee2b6c3ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fa6345a225994f926eac2f4ceb161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50ecbc2b22faf4f8a1769398361083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d404dd7420673a940af73706dd20e2cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97170ce86d3ecd44bcff386fe0a3ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f3b4bd1504ba47bbe30b2f70eabae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50159b05e8a504041a395ac152a5108a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c586c9045b661fe44880ca5beb63a46d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce022e136dafc4ca7167c6ca6232e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373f2bb3e9843d4696d10504a830fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85407863096de494a98ff489c2115937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14ed12a97abef499bbf5d57bf2ab7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7fb1f9ff4f67948bf5488241b7fb8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef99bd5f81398a428b58e8c57ba8327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyanja-chan_base_firstDraft_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81d55dc6e818c43896b33714df725c
       vertices: []
       indices: 
       edges: []
